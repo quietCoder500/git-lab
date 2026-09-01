@@ -41,4 +41,4 @@ The repo is now synced with the local copy and vice versa.
 10. No, the file did not change. I need to pull down the remote changes
 11. The push was rejected due to changes on the remote origin main branch.
 12. Yes, the changes were made to the local copy.
-13. .  ..  .git/  .gitignore  README.md
+13. .gitignore  README.md
