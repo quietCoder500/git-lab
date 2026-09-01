@@ -16,8 +16,11 @@ Untracked files:
         answers.md
 
 nothing added to commit but untracked files present (use "git add" to track)
+
 5. README.md was added to the list of files that will be added in the next commit.
+
 6. answers.md was added to the list of files (including README.md) that will be added in the next commit.
+
 7. [master (root-commit) f64e2c4] Initial commit
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 README.md
@@ -26,6 +29,7 @@ Author: quietCoder500 <raspberrypisms1@gmail.com>
 Date:   Tue Sep 1 16:35:10 2026 -0400
 
     Initial commit
+
 9. On branch main
 Your branch is up to date with 'origin/main'.
 
