@@ -26,4 +26,15 @@ Author: quietCoder500 <raspberrypisms1@gmail.com>
 Date:   Tue Sep 1 16:35:10 2026 -0400
 
     Initial commit
-9. 
+9. On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+The repo is now synced with the local copy and vice versa.
+
+10. No, the file did not change. I need to pull down the remote changes
+11. The push was rejected due to changes on the remote origin main branch.
+12. Yes, the changes were made to the local copy.
+13. .  ..  .git/  .gitignore  README.md
